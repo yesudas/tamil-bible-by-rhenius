@@ -1,0 +1,45 @@
+/* BibleConverter HTML output stylesheet */
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Segoe UI', Arial, sans-serif; background: #f9f7f1; color: #222; line-height: 1.8; font-size: 1rem; }
+header { background: #4a2c0a; color: #fff; padding: 1.2rem 2rem; }
+.header-inner { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; }
+header h1 { font-size: 1.8rem; }
+.font-controls { display: flex; align-items: center; gap: 0.4rem; }
+.font-controls button { background: rgba(255,255,255,0.15); color: #fff; border: 1px solid rgba(255,255,255,0.4);   border-radius: 4px; padding: 0.25rem 0.6rem; cursor: pointer; font-size: 0.9rem; line-height: 1; transition: background 0.2s; }
+.font-controls button:hover { background: #d4a853; color: #000; border-color: #d4a853; }
+.font-controls button:nth-child(2) { font-weight: bold; }
+main { max-width: 960px; margin: 2rem auto; padding: 0 1rem; }
+h2 { color: #4a2c0a; margin: 1.5rem 0 0.75rem; border-bottom: 2px solid #d4a853; padding-bottom: 0.3rem; }
+h3 { color: #6b3f14; margin: 1.2rem 0 0.5rem; }
+.bible-info { margin-bottom: 2rem; }
+.info-table { width: 100%; border-collapse: collapse; }
+.info-table tr:nth-child(even) { background: #f0e8d8; }
+.info-table td { padding: 0.4rem 0.8rem; border: 1px solid #ddd; }
+.info-table td:first-child { font-weight: bold; width: 220px; color: #4a2c0a; }
+.toc-table { width: 100%; border-collapse: collapse; }
+.toc-table thead tr { background: #4a2c0a; color: #fff; }
+.toc-table th, .toc-table td { padding: 0.5rem 0.8rem; border: 1px solid #ddd; text-align: left; }
+.toc-table tr:nth-child(even) { background: #f0e8d8; }
+.toc-table a { color: #4a2c0a; text-decoration: none; font-weight: bold; }
+.toc-table a:hover { text-decoration: underline; }
+.breadcrumb { margin-bottom: 1rem; }
+.breadcrumb a { color: #4a2c0a; text-decoration: none; font-weight: bold; }
+.breadcrumb a:hover { text-decoration: underline; }
+.book-title { font-size: 1.6rem; }
+.chapter-nav { margin: 1rem 0; display: flex; flex-wrap: wrap; gap: 0.3rem; }
+.chapter-nav a { background: #4a2c0a; color: #fff; padding: 0.2rem 0.6rem; border-radius: 4px;   text-decoration: none; font-size: 0.85rem; }
+.chapter-nav a:hover { background: #d4a853; color: #000; }
+.chapter { margin-bottom: 2rem; padding-bottom: 1rem; border-bottom: 1px solid #ddd; }
+.verses { text-align: justify; }
+.verse { display: block; margin: 0.2rem 0; padding: 0.15rem 0; border-bottom: 1px dotted #e8dcc8; }
+.verse-num { font-size: 0.75rem; font-weight: bold; color: #4a2c0a; vertical-align: super; margin-right: 2px; }
+.back-to-top { display: inline-block; margin-top: 0.5rem; font-size: 0.8rem; color: #4a2c0a; text-decoration: none; }
+.back-to-top:hover { text-decoration: underline; }
+footer { background: #4a2c0a; color: #ccc; text-align: center; padding: 1rem; margin-top: 3rem; font-size: 0.85rem; }
+footer a { color: #d4a853; text-decoration: none; }
+footer a:hover { text-decoration: underline; }
+@media (max-width: 600px) {
+  header h1 { font-size: 1.2rem; }
+  .info-table td:first-child { width: 140px; }
+  .font-controls button { padding: 0.2rem 0.45rem; font-size: 0.8rem; }
+}

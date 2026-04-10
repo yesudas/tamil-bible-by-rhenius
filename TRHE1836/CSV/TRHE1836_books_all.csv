@@ -1,0 +1,67 @@
+"Book No","OSIS ID","Book Name","Testament","Present","Chapters"
+1,"Gen","Genesis","OT","No",0
+2,"Exod","Exodus","OT","No",0
+3,"Lev","Leviticus","OT","No",0
+4,"Num","Numbers","OT","No",0
+5,"Deut","Deuteronomy","OT","No",0
+6,"Josh","Joshua","OT","No",0
+7,"Judg","Judges","OT","No",0
+8,"Ruth","Ruth","OT","No",0
+9,"1Sam","1 Samuel","OT","No",0
+10,"2Sam","2 Samuel","OT","No",0
+11,"1Kgs","1 Kings","OT","No",0
+12,"2Kgs","2 Kings","OT","No",0
+13,"1Chr","1 Chronicles","OT","No",0
+14,"2Chr","2 Chronicles","OT","No",0
+15,"Ezra","Ezra","OT","No",0
+16,"Neh","Nehemiah","OT","No",0
+17,"Esth","Esther","OT","No",0
+18,"Job","Job","OT","No",0
+19,"Ps","Psalm","OT","No",0
+20,"Prov","Proverbs","OT","No",0
+21,"Eccl","Ecclesiastes","OT","No",0
+22,"Song","Song of Solomon","OT","No",0
+23,"Isa","Isaiah","OT","No",0
+24,"Jer","Jeremiah","OT","No",0
+25,"Lam","Lamentations","OT","No",0
+26,"Ezek","Ezekiel","OT","No",0
+27,"Dan","Daniel","OT","No",0
+28,"Hos","Hosea","OT","No",0
+29,"Joel","Joel","OT","No",0
+30,"Amos","Amos","OT","No",0
+31,"Obad","Obadiah","OT","No",0
+32,"Jonah","Jonah","OT","No",0
+33,"Mic","Micah","OT","No",0
+34,"Nah","Nahum","OT","No",0
+35,"Hab","Habakkuk","OT","No",0
+36,"Zeph","Zephaniah","OT","No",0
+37,"Hag","Haggai","OT","No",0
+38,"Zech","Zechariah","OT","No",0
+39,"Mal","Malachi","OT","No",0
+40,"Matt","மத்தேயு","NT","Yes",28
+41,"Mark","மாற்கு","NT","Yes",16
+42,"Luke","லூக்கா","NT","Yes",24
+43,"John","யோவான்","NT","Yes",21
+44,"Acts","அப்போஸ்தலர்","NT","Yes",28
+45,"Rom","உரோமர்","NT","Yes",16
+46,"1Cor","1 கொரிந்தியர்","NT","Yes",16
+47,"2Cor","2 கொரிந்தியர்","NT","Yes",13
+48,"Gal","கலாத்தியர்","NT","Yes",6
+49,"Eph","எபேசியர்","NT","Yes",6
+50,"Phil","பிலிப்பியர்","NT","Yes",4
+51,"Col","கொலோசெயர்","NT","Yes",4
+52,"1Thess","1 தெசலோனிக்கேயர்","NT","Yes",5
+53,"2Thess","2 தெசலோனிக்கேயர்","NT","Yes",3
+54,"1Tim","1 தீமோத்தேயு","NT","Yes",6
+55,"2Tim","2 தீமோத்தேயு","NT","Yes",4
+56,"Titus","தீத்து","NT","Yes",3
+57,"Phlm","பிலேமோன்","NT","Yes",1
+58,"Heb","எபிரேயர்","NT","Yes",13
+59,"Jas","யாக்கோபு","NT","Yes",5
+60,"1Pet","1 பேதுரு","NT","Yes",5
+61,"2Pet","2 பேதுரு","NT","Yes",3
+62,"1John","1 யோவான்","NT","Yes",5
+63,"2John","2 யோவான்","NT","Yes",1
+64,"3John","3 யோவான்","NT","Yes",1
+65,"Jude","யூதா","NT","Yes",1
+66,"Rev","வெளிப்படுத்தின விசேஷம்","NT","Yes",22

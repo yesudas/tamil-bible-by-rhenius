@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package unique-identifier="uid">
+  <metadata>
+    <dc-metadata xmlns:dc="http://purl.org/metadata/dublin_core" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+      <dc:Title>Die Bibel - புதிய ஏற்பாடு 1836 இரேனியஸ் ஐயர் - Tamil New Testament 1836 by C.T.E. Rhenius</dc:Title>
+      <dc:Language>de</dc:Language>
+    </dc-metadata>
+    <x-metadata>
+      <DatabaseName>BibleTRHE1836.html</DatabaseName>
+      <output encoding="Windows-1252"></output>
+    </x-metadata>
+  </metadata>
+  <manifest>
+    <item id="onlyfile" media-type="text/x-oeb1-document" href="TRHE1836.html.html"></item>
+  </manifest>
+  <spine>
+    <itemref idref="onlyfile" />
+  </spine>
+  <tours></tours>
+  <guide></guide>
+</package>

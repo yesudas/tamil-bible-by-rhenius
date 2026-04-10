@@ -43,4 +43,3 @@ Public Domain (see `bible.info.copyRight` above).
 - For reading, open the HTML or EPUB files in the `HTML/` or `EquipdEPUB/` folders.
 - For data analysis, CSV exports are provided in `CSV/`.
 
-If you'd like, I can also add a short examples section showing how to load the JSON or CSV using Python or Node.js.
